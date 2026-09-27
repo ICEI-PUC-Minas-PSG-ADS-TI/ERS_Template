@@ -1,51 +1,37 @@
+# 5. Validação de Histórias de Usuário com Inteligência Artificial
 
-# 5. Interface do Sistema
+Nesta seção prática, a equipe deve demonstrar a capacidade de engenharia de prompt para validar a qualidade, clareza e completude das Histórias de Usuário e Critérios de Aceitação criados na seção 3. 
 
-> ⚠️ **Aviso aos Squads:**
-> Diferente da Seção 4 (onde vocês colocaram os wireframes/Mockups), esta seção é o **Portfólio Visual** do software real. Aqui devem constar apenas as capturas de tela (screenshots) do **sistema já codificado e funcionando**.
+O objetivo é simular uma revisão técnica feita por um especialista de forma automatizada.
 
-Esta seção deve ser atualizada a cada Sprint, servindo como um registro histórico da evolução da interface da aplicação web. <br><br>
+## 5.1 Instruções para a Equipe
 
+Vocês deverão construir e executar um **Prompt de Validação** em uma ferramenta de IA generativa (como ChatGPT, Claude ou Gemini). O texto deve ser estruturado de forma a orientar a IA a agir sob um papel específico e avaliar pontos críticos da documentação.
 
-## 5.1. Galeria de Telas (Por Sprint)
+### Requisitos do Prompt (O que deve conter):
+1. **Atribuição de Papel (*Role-playing*):** Definam a IA como um Engenheiro de Requisitos Sênior ou um Product Owner experiente.
+2. **Contexto do Projeto:** Expliquem brevemente sobre o que é o sistema de vocês.
+3. **Critérios de Avaliação:** Instruam a IA a avaliar se as histórias seguem o padrão *Como/Quero/Para que*, se há ambiguidades e se os critérios de aceitação são realmente testáveis.
+4. **Formato de Saída:** Peçam para a IA apontar os erros e sugerir a versão corrigida/melhorada.
 
-Apresente as imagens reais das telas implementadas, associando-as à funcionalidade (Fatia Vertical) entregue na Sprint correspondente. Descreva brevemente o que cada tela faz.<br><br>
+---
 
-**🟢 Sprint 1: Hello World / Tela Inicial**
-* **Funcionalidade:** Ponto de entrada do sistema e navegação principal.
-* **Descrição:** Tela inicial conectada à API, provando que o fluxo base da aplicação está funcionando.
-* *(Insira a imagem real da tela aqui - ex: `![Tela Home](images/sprint1_home.png)`)* <br><br>
-> 💡 **Importante:** Uma mesma funcionalidade (fatia) pode render **várias telas** (ex: tela de listagem, formulário de cadastro e modal de sucesso). **Coloque prints de todas as etapas do fluxo.** <br><br>
+## 5.2 Entregáveis da Seção
 
-**🟡 Sprint 2: MVP (Primeira Fatia Vertical)**
-* **Funcionalidade:** *(Ex: Cadastro de Cliente e Listagem)*
-* **Descrição:** Formulário interativo que envia os dados para a API e salva com sucesso no Banco de Dados.
-* *(Insira a imagem real da tela aqui - ex: `![Tela Cadastro](images/sprint2_cadastro.png)`)* <br><br>
-> 💡 **Importante:** Uma mesma funcionalidade (fatia) pode render **várias telas** (ex: tela de listagem, formulário de cadastro e modal de sucesso). **Coloque prints de todas as etapas do fluxo.** <br><br>
+Preencham os campos abaixo com as informações reais do teste que o grupo realizou:
 
-**🔵 Sprint 3: Core (Regras de Negócio)**
-* **Funcionalidade:** *(Ex: Dashboard de Análise ou Fluxo de Pagamento)*
-* **Descrição:** Interface que demonstra as regras de negócio mais complexas do sistema operando com dados reais do banco.
-* *(Insira a imagem real da tela aqui - ex: `![Tela Core](images/sprint3_core.png)`)* <br><br>
-> 💡 **Importante:** Uma mesma funcionalidade (fatia) pode render **várias telas** (ex: tela de listagem, formulário de cadastro e modal de sucesso). **Coloque prints de todas as etapas do fluxo.** <br><br>
+### 1. O Prompt Construído pela Equipe
+*Cole aqui o texto exato do prompt que vocês criaram e enviaram para a IA:*
+> **[Insira aqui o seu prompt estruturado]**
 
-**🔴 Sprint 4: Entrega Final**
-* **Funcionalidade:** Polimento visual e telas secundárias.
-* **Descrição:** Telas finais de relatórios, perfis de usuário, tratamento de erros e refinamento de CSS/UX.
-* *(Insira a imagem real da tela aqui - ex: `![Tela Final](images/sprint4_final.png)`)* <br><br>
-> 💡 **Importante:** Uma mesma funcionalidade (fatia) pode render **várias telas** (ex: tela de listagem, formulário de cadastro e modal de sucesso). **Coloque prints de todas as etapas do fluxo.** <br><br>
+### 2. Histórias Analisadas (Exemplo de Entrada)
+*Insira aqui pelo menos uma História de Usuário (US) que vocês enviaram para validação:*
+> **[Insira a US analisada]**
 
-> 📸 **Dica:** Certifiquem-se de que as imagens tenham boa resolução e mostrem o sistema rodando no navegador. Salvem todas as imagens na pasta `images/` do repositório.
+### 3. Feedback Recebido da IA
+*Cole aqui os principais pontos de melhoria ou correções que a IA sugeriu:*
+> **[Insira a resposta/crítica da IA]**
 
-
-
-
-
-
-
-
-
-
-
-
-
+### 4. Ajustes Realizados (Versão Final Refinada)
+*Com base no feedback da IA, o que mudou na história de usuário original? Apresentem a versão final corrigida:*
+> **[Insira a US refinada após o uso da IA]**
