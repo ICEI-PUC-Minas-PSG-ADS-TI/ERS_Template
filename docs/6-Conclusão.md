@@ -1,28 +1,29 @@
-
 # 6. Conclusão
 
-> ⚠️ **Aviso aos Squads:**
-> Esta seção deve ser preenchida ao final do projeto (Sprint 4). É o momento de refletir sobre o software entregue, o impacto gerado e os aprendizados da equipe.<br>
----
-## 6.1 Síntese dos Resultados
-O software construído resolveu o problema inicial? Como ele se conecta com a ODS (Objetivo de Desenvolvimento Sustentável) escolhida lá na Sprint 1? Faça um resumo dos principais impactos positivos gerados pela solução.<br><br>
+Nesta seção, a equipe apresentará uma avaliação crítica do projeto desenvolvido, sintetizando os impactos práticos da solução, as barreiras enfrentadas e os horizontes futuros para a aplicação.
 
-> **EXEMPLO:** *A plataforma reduziu o tempo de agendamento de 8 para 3 minutos, digitalizando um processo que antes era feito no papel. Com isso, o projeto atendeu à ODS 3 (Saúde e Bem-estar), facilitando o acesso da comunidade aos serviços da clínica.*
+## 6.1 Principais Aprendizados da Equipe
 
-✏️ **Preencha com a síntese do seu Squad:** (Digite seu texto aqui)
+*Neste espaço, a equipe deve relatar o amadurecimento acadêmico e profissional adquirido ao longo do projeto. Para construir este texto, reflitam sobre as seguintes questões:*
 
----
-## 6.2 Limitações e Trabalhos Futuros
-Nenhum software nasce perfeito. Quais foram as limitações técnicas ou de escopo enfrentadas pelo grupo? O que vocês sugerem como melhoria para uma futura "Versão 2.0" do sistema?<br><br>
+* **Processo de Elicitação:** O que vocês aprenderam ao extrair as necessidades do cliente/usuário? Como foi a experiência de diferenciar o que o usuário *pedia* do que ele realmente *precisava*?
+* **Documentação e Modelagem:** Como a transição da teoria para a prática (escrever Requisitos Funcionais, Não Funcionais e Histórias de Usuário) mudou a percepção de vocês sobre a organização de um software?
+* **Rastreabilidade e Escopo:** Qual a importância de ter utilizado a Matriz de Rastreabilidade? Como isso ajudou o grupo a entender o impacto de mudanças no projeto?
+* **Visão de Engenharia:** De que forma este trabalho mostrou que desenvolver software vai muito além de apenas escrever código?
 
-> **EXEMPLO:** *Como limitação técnica, o sistema atual não possui uma versão mobile otimizada (responsividade completa). Para trabalhos futuros, sugerimos a criação de um aplicativo nativo e a integração com um sistema de recomendação por IA.*
+## 6.2 Barreiras e Desafios Enfrentados
 
-✏️ **Preencha com as limitações e próximos passos do seu Squad:** (Digite seu texto aqui)
+*A Engenharia de Requisitos lida diretamente com comunicação, técnica e restrições. Descrevam os principais obstáculos que o grupo precisou superar, considerando os pontos abaixo:*
 
----
-## 6.3 Lições Aprendidas
-Como foi a experiência de atuar como uma *Software House* utilizando Fatias Verticais? Quais foram os maiores desafios técnicos (ex: Banco de Dados, Integração de API, versionamento no Git) e como a equipe os superou?<br><br>
+* **Comunicação e Alinhamento:** Houve dificuldade em entender as regras de negócio ou em traduzir termos vagos do usuário em critérios de aceitação objetivos?
+* **Trabalho em Equipe:** Como foi o processo de manter toda a equipe alinhada com a mesma visão do sistema?
+* **Restrições Técnicas:** Encontraram dificuldades para mapear e limitar os requisitos não funcionais (como segurança, desempenho ou os requisitos de hardware)?
+* **Gestão de Tempo:** O tempo disponível foi suficiente para cobrir todo o escopo planejado? Como lidaram com isso?
 
-✏️ **Preencha com os aprendizados do seu Squad:** (Digite seu texto aqui)
+## 6.3 Horizontes Futuros
 
----
+*Um documento de requisitos serve como fundação para as próximas etapas do software. Indiquem quais são os próximos passos para o projeto de vocês, respondendo a:*
+
+* **Próxima Fase do Ciclo de Vida:** Se o projeto continuasse hoje, qual seria o próximo passo imediato? (Ex: Criar protótipos de tela, iniciar a codificação/desenvolvimento, planejar os testes de software?)
+* **Uso dos Artefatos:** Como as Histórias de Usuário e os Requisitos gerados neste trabalho serão úteis para guiar os desenvolvedores e a equipe de testes no futuro?
+* **Evolução do Sistema:** Quais funcionalidades (*features*) conhecidas ou desejadas ficaram de fora deste escopo inicial, mas seriam as primeiras a serem implementadas em uma futura versão 2.0?
